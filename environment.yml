@@ -90,7 +90,7 @@ dependencies:
   - requests=2.22.0=py37_1
   - send2trash=1.5.0=py37_0
   - setuptools=41.4.0=py37_0
-  - shapely=1.6.4=py37h6e5b138_0
+  - shapely=1.6.4
   - sip=4.19.8=py37h0a44026_0
   - six=1.12.0=py37_0
   - sqlite=3.30.0=ha441bb4_0
