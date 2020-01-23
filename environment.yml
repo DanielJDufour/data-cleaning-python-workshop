@@ -119,4 +119,3 @@ dependencies:
     - semver==2.9.0
     - toml==0.10.0
     - websocket-client==0.57.0
-prefix: /Users/briankominick/anaconda3/envs/workshop
