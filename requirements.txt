@@ -1,9 +1,0 @@
-docker==4.1.0
-escapism==1.0.0
-jupyter-repo2docker==0.10.0
-python-json-logger==0.1.11
-ruamel-yaml==0.16.6
-ruamel-yaml-clib==0.2.0
-semver==2.9.0
-toml==0.10.0
-websocket-client==0.57.0
